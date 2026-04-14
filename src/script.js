@@ -109,16 +109,19 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+My Dearest Lea,
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+I wanted to take a moment to tell you how much you truly mean to me. These last few days have felt heavy, and the burdens I've been carrying started to feel like too much, until I'm with you.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+Just being near you changes everything. I love how you have this natural way of making me relax, the weight on my shoulders just seems to lift when you’re around. But more than that, I love you for the choice you make every single day. Out of everyone in the world, you keep choosing me to be your favorite man, and I promise I never take that for granted.
 
-But like late night radio waves that stay playing even when the world sleeps.
+Thank you for being my peace and my joy. I love you more than words can say.
 
-END SIGNAL
+Always yours,
+
+Om Craîg
+
+
 <span class="signal">END SIGNAL</span>
 
 </div>
