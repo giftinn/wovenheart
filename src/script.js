@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Aku Milikmu</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Dewa 19</div>
 
 <div class="player">
 <div class="topRow">
