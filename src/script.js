@@ -49,14 +49,14 @@ html:`
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 <img src="src/pict.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
-<img src="src/5.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 <img src="src/pict.jpg" class="filmPic">
 
 </div>
